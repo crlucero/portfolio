@@ -1,17 +1,13 @@
-html {
-  position:relative;
-}
 
-body {
+
+html body {
   background-color: lightgray;
   position: relative;
   display: block;
   margin: 0;
   
 }
-img {
-  i
-}
+
 .panel-primary {
   margin-left: 20px;
   margin-right: 20px;
@@ -33,9 +29,13 @@ h2 {
 
 img {
   float: left;
-  width: 100px
+  width: 200px
+}
+img-circle {
+  float: right;
+  border-radius: 50%;
 }
 
-p {
-  text-align: auto;
+blockquote {
+  margin: 25px
 }
