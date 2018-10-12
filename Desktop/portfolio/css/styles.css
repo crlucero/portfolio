@@ -1,22 +1,26 @@
 body {
-  background-color: skyblue;
+  background-color: white;
 }
 
 h1 {
   text-align: center;
   font-family: Impact, Charcoal, sans-serif;
-  color: white;
-  font-size: 50px
-  
+  color: lightgray;
+  font-size: 50px  
 }
 
 h2 {
   font-family: Impact, white, sans-serif;
-  color: white;
+  color: lightgray;  
   
-  
+
 }
 
-blockquote {
-  
+img {
+  float: left;
+  width: 100px
+}
+
+p {
+  text-align: auto;
 }
