@@ -32,9 +32,8 @@ Email me at cristianjlucero32@gmail.com for any questions or concerns.
 - CSS
 - Bootstrap
 
-# GH-Pages Link
-<a href="file:///Users/CristianLucero1/Desktop/portfolio/index.html">Portfolio Page</a>
-
+## GH-Pages Link
+https://crlucero.github.io/portfolio/
 
 ## License
 
