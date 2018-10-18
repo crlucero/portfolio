@@ -29,8 +29,11 @@ Email me at cristianjlucero32@gmail.com for any questions or concerns.
 
 - Atom Editor
 - HTML
-- CSS 
-- Bootstrap 
+- CSS
+- Bootstrap
+
+#GH-Pages Link
+https://github.com/crlucero/portfolio.git
 
 ## License
 
