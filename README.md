@@ -33,7 +33,7 @@ Email me at cristianjlucero32@gmail.com for any questions or concerns.
 - Bootstrap
 
 ## Live Link
-<a href="file:///Users/CristianLucero1/Desktop/portfolio/index.html">Portfolio Page</a>
+https://crlucero.github.io/portfolio/
 
 ## License
 
