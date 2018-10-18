@@ -33,7 +33,8 @@ Email me at cristianjlucero32@gmail.com for any questions or concerns.
 - Bootstrap
 
 # GH-Pages Link
-file:///Users/CristianLucero1/Desktop/portfolio/index.html
+<a href="file:///Users/CristianLucero1/Desktop/portfolio/index.html">Portfolio Page</a>
+
 
 ## License
 
